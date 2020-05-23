@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-05T10:01:05Z" name="Suite" finished-at="2020-04-05T10:01:14Z" duration-ms="8657">
+    <groups>
+    </groups>
+    <test started-at="2020-04-05T10:01:05Z" name="Test" finished-at="2020-04-05T10:01:14Z" duration-ms="8657">
+      <class name="seleniumautomation.selenium1Test">
+        <test-method signature="TestCase1()[pri:0, instance:seleniumautomation.selenium1Test@bd4dc25]" started-at="2020-04-05T10:01:14Z" name="TestCase1" finished-at="2020-04-05T10:01:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method signature="TestCase2()[pri:0, instance:seleniumautomation.selenium1Test@bd4dc25]" started-at="2020-04-05T10:01:14Z" name="TestCase2" finished-at="2020-04-05T10:01:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- seleniumautomation.selenium1Test -->
+      <class name="seleniumautomation.seleniumwithmavenTest">
+        <test-method signature="testingMaven()[pri:0, instance:seleniumautomation.seleniumwithmavenTest@4efc180e]" started-at="2020-04-05T10:01:05Z" name="testingMaven" finished-at="2020-04-05T10:01:14Z" duration-ms="8584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingMaven -->
+        <test-method signature="testingMaven1()[pri:0, instance:seleniumautomation.seleniumwithmavenTest@4efc180e]" started-at="2020-04-05T10:01:14Z" name="testingMaven1" finished-at="2020-04-05T10:01:14Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingMaven1 -->
+      </class> <!-- seleniumautomation.seleniumwithmavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
